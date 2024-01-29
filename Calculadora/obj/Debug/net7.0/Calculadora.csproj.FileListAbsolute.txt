@@ -1,0 +1,14 @@
+d:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+d:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+d:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+d:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\ProjetosAGORAVAI\Calculadora\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
